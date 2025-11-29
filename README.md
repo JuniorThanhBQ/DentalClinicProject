@@ -1,2 +1,4 @@
-# DentalClinicProject
-A project from "Software Technology" course
+# Dental Clinic Project
+## A project from "Software Technology" course
+Team members: 2
+
