@@ -3,5 +3,5 @@
 Team members: 2
 
 ## Deployment
-+ Development: Vercel
++ Development: Vercel (No database)
 + Production: PythonAnywhere
